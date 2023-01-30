@@ -1,0 +1,25 @@
+{
+    "short_name": "CA",
+    "name": "Cosmic Adventure",
+    "description": "It's a Quizz about 3 choices, the point is to get someone matching the same half cube!",
+    "author": "LelouchFR",
+    "icons": [
+        {
+            "src": "manifestItm/Logo460x460.png",
+            "type": "image/png",
+            "sizes": "460x460"
+        },
+        {
+            "src": "manifestItm/Logo550x550.png",
+            "type": "image/png",
+            "sizes": "550x550",
+            "purpose": "maskable"
+        }
+    ],
+    "start_url": "/",
+    "theme_color": "#000000",
+    "orientation": "any",
+    "background_color": "#86f9a3",
+    "display": "standalone"
+}
+  

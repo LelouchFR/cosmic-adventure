@@ -1,0 +1,254 @@
+{
+    "Questions": [
+        {
+            "Answer1": "Super Mario Bros",
+            "Answer2": "Sonic The Hedgehog",
+            "Answer3": "Super Mario Galaxy",
+            "colors": [
+                "0x9EA93F",
+                "0x60712F",
+                "0x315C2B"
+            ]
+        },
+        {
+            "Answer1": "Pokemon X & Y",
+            "Answer2": "Pokemon ROSA",
+            "Answer3": "Pokemon Or & Argent",
+            "colors": [
+                "0xDB5461",
+                "0xFFD9CE",
+                "0x593C8F"
+            ]
+        },
+        {
+            "Answer1": "Zelda Ocarina Of Time",
+            "Answer2": "Zelda Majora's Mask",
+            "Answer3": "Zelda Twilight Princess",
+            "colors": [
+                "0x8EF9F3",
+                "0x171738",
+                "0x2D7DD2"
+            ]
+        },
+        {
+            "Answer1": "GTA San Andreas",
+            "Answer2": "GTA Vice City",
+            "Answer3": "GTA III",
+            "colors": [
+                "0x97CC04",
+                "0xEEB902",
+                "0xF45D01"
+            ]
+        },
+        {
+            "Answer1": "Pac-Man",
+            "Answer2": "Space-Invaders",
+            "Answer3": "Donkey Kong",
+            "colors": [
+                "0x5CF64A",
+                "0x87E752",
+                "0x43B929"
+            ]
+        },
+        {
+            "Answer1": "WarioWare Touched!",
+            "Answer2": "Mario & Sonic at the Olympic Games",
+            "Answer3": "Wario Master of Disguise",
+            "colors": [
+                "0xFAC9B8",
+                "0xE5D4C0",
+                "0xDDE2C6"
+            ]
+        },
+        {
+            "Answer1": "Crash Bandicoot",
+            "Answer2": "Star Fox",
+            "Answer3": "Sonic Mania",
+            "colors": [
+                "0x06BEE1",
+                "0x1768AC",
+                "0x2541B2"
+            ]
+        },
+        {
+            "Answer1": "StreetFight II",
+            "Answer2": "Tekken",
+            "Answer3": "Mortal Kombat III",
+            "colors": [
+                "0xBC2C1A",
+                "0x7D1538",
+                "0xFF37A6"
+            ]
+        },
+        {
+            "Answer1": "Brawlhalla",
+            "Answer2": "Super Smash Bros",
+            "Answer3": "Dragon Ball FighterZ",
+            "colors": [
+                "0xA799B7",
+                "0x9888A5",
+                "0x776472"
+            ]
+        },
+        {
+            "Answer1": "DOOM",
+            "Answer2": "Wolfenstein 3D",
+            "Answer3": "Duke Nukem 3D",
+            "colors": [
+                "0x489FB5",
+                "0xDBFE87",
+                "0xFFED65"
+            ]
+        },
+        {
+            "Answer1": "Dota 2",
+            "Answer2": "League Of Legends",
+            "Answer3": "Mobile Legends: Bang Bang",
+            "colors": [
+                "0x083D77",
+                "0xEBEBD3",
+                "0xDA4167"
+            ]
+        },
+        {
+            "Answer1": "Counter-Strike: Global Offensive",
+            "Answer2": "Rainbow Six: Siege",
+            "Answer3": "Valorant",
+            "colors": [
+                "0x04E762",
+                "0xF5B700",
+                "0xDC0073"
+            ]
+        },
+        {
+            "Answer1": "ARK: Survival Evolved",
+            "Answer2": "Minecraft",
+            "Answer3": "Subnautica",
+            "colors": [
+                "0x4C1A57",
+                "0xF0F600",
+                "0xFF3CC7"
+            ]
+        },
+        {
+            "Answer1": "Inside",
+            "Answer2": "Limbo",
+            "Answer3": "Little Nightmares",
+            "colors": [
+                "0x424342",
+                "0x244F26",
+                "0x256D1B"
+            ]
+        },
+        {
+            "Answer1": "Undertale",
+            "Answer2": "Stranger Things: The Game",
+            "Answer3": "Deltarune",
+            "colors": [
+                "0xDB2B39",
+                "0xF3A712",
+                "0x29335C"
+            ]
+        },
+        {
+            "Answer1": "Osu!",
+            "Answer2": "Guitar Hero",
+            "Answer3": "Beat Saber",
+            "colors": [
+                "0x069E2D",
+                "0x058E3F",
+                "0x04773B"
+            ]
+        },
+        {
+            "Answer1": "Fortnite",
+            "Answer2": "PUBG",
+            "Answer3": "Apex Legends",
+            "colors": [
+                "0x9B287B",
+                "0xE2FCEF",
+                "0x5C164E"
+            ]
+        },
+        {
+            "Answer1": "Forza Horizon 4",
+            "Answer2": "Burnout Paradise",
+            "Answer3": "Need for Speed",
+            "colors": [
+                "0x0A369D",
+                "0x4472CA",
+                "0x5E7CE2"
+            ]
+        },
+        {
+            "Answer1": "Chess",
+            "Answer2": "Checkers",
+            "Answer3": "Go",
+            "colors": [
+                "0x134611",
+                "0x3E8914",
+                "0x3DA35D"
+            ]
+        },
+        {
+            "Answer1": "Rock Band",
+            "Answer2": "Just Dance",
+            "Answer3": "Dance Dance Revolution",
+            "colors": [
+                "0x5EFC8D",
+                "0x8EF9F3",
+                "0x93BEDF"
+            ]
+        },
+        {
+            "Answer1": "Beyblade: Metal Fusion",
+            "Answer2": "Beyblade: Metal Masters",
+            "Answer3": "Beyblade: Evolution",
+            "colors": [
+                "0x004777",
+                "0xA30000",
+                "0xFF7700"
+            ]
+        },
+        {
+            "Answer1": "Metroid: Samus Returns",
+            "Answer2": "Animal Crossing: New Leaf",
+            "Answer3": "Luigi's Mansion 2",
+            "colors": [
+                "0x227C9D",
+                "0x17C3B2",
+                "0xFFCB77"
+            ]
+        },
+        {
+            "Answer1": "Kirby's Adventure",
+            "Answer2": "Super Mario 64",
+            "Answer3": "Dr Kawashima",
+            "colors": [
+                "0xB3001B",
+                "0x262626",
+                "0x255C99"
+            ]
+        },
+        {
+            "Answer1": "Foot 2 Rue",
+            "Answer2": "FIFA 12",
+            "Answer3": "Soccer Stars",
+            "colors": [
+                "0x293F14",
+                "0x386C0B",
+                "0x38A700"
+            ]
+        },
+        {
+            "Answer1": "NBA Inside Drive 2002",
+            "Answer2": "NBA 2K3",
+            "Answer3": "NBA Live 06",
+            "colors": [
+                "0x8C1C13",
+                "0xBF4342",
+                "0xE7D7C1"
+            ]
+        }
+    ]
+}

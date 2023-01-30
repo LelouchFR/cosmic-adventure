@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@100;300;400;500;700;800;900&display=swap");
+html {
+  height: 100vh;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  overflow: hidden;
+  flex-wrap: wrap;
+  text-align: center;
+  font-family: "M PLUS Rounded 1c", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+body canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+body section {
+  position: relative;
+  text-align: center;
+  width: 90%;
+  height: 500px;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, 10%);
+  background: rgba(255, 255, 255, 0.34);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 1fr;
+  gap: 10px;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+body section h1 {
+  display: block;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  padding-top: 20px;
+  font-size: 50px;
+}
+body section .box1 {
+  grid-column: 0/3;
+  grid-row: 1;
+}
+body section .box2 {
+  grid-column: 2/3;
+  grid-row: 1;
+}
+body section .box3 {
+  grid-column: 3/3;
+  grid-row: 1;
+}
+body section .color {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+  border: 5px solid rgba(255, 255, 255, 0.18);
+  left: 50%;
+  bottom: 50%;
+  transform: translate(-50%, 100%);
+}
+body section .Q1, body section .Q2, body section .Q3 {
+  position: relative;
+  top: 175px;
+}
+body section .c1, body section .c2, body section .c3 {
+  position: relative;
+  top: 75px;
+}/*# sourceMappingURL=style.css.map */
