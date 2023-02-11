@@ -7,6 +7,13 @@
 - ## What languages & framework are used ?
   - This Project is using **Typescript** as main Language, there's also some **Scss** (I primarly used it to improve my skills on it :P), and some regular HTML. The Frameworks used during are **Vanilla Typescript** setuped by **Vite**, as Graphic framework, it's using **Threejs**, a 3D javascript framework.
 
+## Installation
+You should have:
+- [Node.js](https://nodejs.org/en/)
+- [npm](https://www.npmjs.com/)
+- [npm sass](https://www.npmjs.com/package/sass)
+- [TypeScript Compiler](https://www.typescriptlang.org/download)
+
 
 ## JSON Structure of the data which is used for all the project
 ```json
